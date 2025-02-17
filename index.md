@@ -1,5 +1,4 @@
 ---
-title: Welcome to my blog - 
-My Name is Sonja Lovegrove
+title: Welcome to my blog - My Name is Sonja Lovegrove
 ---
 
